@@ -7,7 +7,7 @@ var c = 789;
 a = 'test2';
 
 
-// Destructuring
+// Destructuring:-
 var person = {
     firstName : "John",
     lastName  : "Doe",
