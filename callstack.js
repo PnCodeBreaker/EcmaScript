@@ -8,9 +8,9 @@ setTimeout(() => {
 
 //Web Api
 
-//callback queue
+//Callback queue
 
-//event loop
+//Event loop
 
 
 
